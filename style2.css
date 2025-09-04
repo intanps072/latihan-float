@@ -1,0 +1,40 @@
+.main-header {
+    width: 1350px;
+    height: 50px;
+    background-color: black;
+}
+.header {
+    width: 1350px; 
+    height: 200px;
+    background-color: rgb(82, 168, 184);
+}
+
+.kiri {
+    width: 500px;
+    height: 350px;
+    background-color: grey;
+    float: left;
+    
+}
+
+.tengah {
+    width: 330px; 
+    height: 350px;
+    background-color: wheat;
+    float: left;
+
+}
+
+.kanan {
+    width: 500px;
+    height: 350px;
+    background-color: grey;
+    float: left;
+}
+
+.footer {
+    width: 1350px;
+    height: 50px;
+    background-color: black;
+    clear: both;
+}
