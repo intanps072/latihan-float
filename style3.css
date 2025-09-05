@@ -1,3 +1,8 @@
+.container {
+    width: 1350px;
+    margin: auto;
+}
+
 .main-header {
     width: 1350px;
     height: 50px;
@@ -10,7 +15,7 @@
 }
 
 .satu {
-    width: 330px;
+    width: 25%;
     height: 350px;
     background-color: rgb(211, 111, 111);
     float: left;
@@ -18,7 +23,7 @@
 }
 
 .dua {
-    width: 330px; 
+    width: 25%; 
     height: 350px;
     background-color: rgb(207, 195, 85);
     float: left;
@@ -26,14 +31,14 @@
 }
 
 .tiga {
-    width: 330px;
+    width: 25%;
     height: 350px;
     background-color: rgb(94, 192, 111);
     float: left;
 }
 
 .empat {
-    width: 330px;
+    width: 25%;
     height: 350px;
     background-color: rgb(65, 58, 133);
     float: left;
